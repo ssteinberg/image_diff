@@ -1,3 +1,0 @@
-[submodule "color-utils"]
-    path = color-utils
-    url = https://github.com/yuki-koyama/color-util.git
